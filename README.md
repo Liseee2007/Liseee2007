@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Superior -->
-<img src="./banner_github.jpg" alt="Header Banner" width="100%" />
+<img src="./banner_github.png" alt="Header Banner" width="100%" />
 
 <br/><br/>
 
