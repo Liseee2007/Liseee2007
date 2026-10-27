@@ -8,7 +8,7 @@
 <!-- About Me -->
 ### ✿ About me
 
-Olá! Me chamo **Anelise** ✿
+Olá! Me chamo, **Anelise** ✿
 
 Graduanda em **Ciência da Computação**, apaixonada por tecnologia, resolução de problemas e aprendizado contínuo. Transito entre o desenvolvimento web, lógica de dados e ferramentas de criação.
 
