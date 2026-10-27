@@ -3,7 +3,7 @@
 
 <br/><br/>
 
-### ✿ about me
+### ✿ About me
 
 Olá! Me chamo **Anelise** ✿
 
@@ -13,7 +13,7 @@ Acredito na tecnologia como um meio para construir soluções inteligentes e pro
 
 <br/>
 
-### ✿ applications & tools
+### ✿ Applications & tools
 
 ![](https://img.shields.io/badge/Java-E8B4CB?style=flat-square&logo=java&logoColor=2A2438)
 ![](https://img.shields.io/badge/HTML5-FFB6C1?style=flat-square&logo=html5&logoColor=2A2438)
@@ -31,7 +31,7 @@ Acredito na tecnologia como um meio para construir soluções inteligentes e pro
 
 <br/>
 
-### ✿ currently learning
+### ✿ Currently learning
 
 Java · HTML · CSS · Python · C# · PHP · SQL
 
