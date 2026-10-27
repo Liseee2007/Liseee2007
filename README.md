@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Banner Superior -->
-<img src="./banner github.png" alt="Header Banner" width="100%" />
+<img src="./banner_github.jpg" alt="Header Banner" width="100%" />
 
 <br/><br/>
 
 <!-- About Me -->
-### ✿ About me
+### ✿ about me
 
 Olá! Me chamo **Anelise** ✿
 
@@ -17,7 +17,7 @@ Acredito na tecnologia como um meio para construir soluções inteligentes e pro
 <br/>
 
 <!-- Applications & Tools -->
-### ✿ Applications & tools
+### ✿ applications & tools
 
 ![](https://img.shields.io/badge/Java-E8B4CB?style=flat-square&logo=java&logoColor=2A2438)
 ![](https://img.shields.io/badge/HTML5-FFB6C1?style=flat-square&logo=html5&logoColor=2A2438)
@@ -36,11 +36,19 @@ Acredito na tecnologia como um meio para construir soluções inteligentes e pro
 <br/>
 
 <!-- Currently Learning -->
-### ✿ Currently learning
+### ✿ currently learning
 
 Java · HTML · CSS · Python · C# · PHP · SQL
 
 <br/>
+
+<!-- Let's Connect -->
+### ✿ let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E8B4CB?style=flat-square&logo=linkedin&logoColor=2A2438)](https://www.linkedin.com/in/anelise-lemes)
+[![Email](https://img.shields.io/badge/Email-FFB6C1?style=flat-square&logo=gmail&logoColor=2A2438)](mailto:aneliselemes2007@gmail.com)
+
+<br/><br/>
 
 <sub>*transformando curiosidade em código, e ideias em realidade*</sub>
 
