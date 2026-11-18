@@ -41,6 +41,7 @@ Java · HTML · CSS · Python · C# · PHP · SQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E8B4CB?style=flat-square&logo=linkedin&logoColor=2A2438)](https://www.linkedin.com/in/anelise-lemes)
 [![Email](https://img.shields.io/badge/Email-FFB6C1?style=flat-square&logo=gmail&logoColor=2A2438)](mailto:aneliselemes2007@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E8B4CB?style=flat-square&logo=githubpages&logoColor=2A2438)](https://liseee2007.github.io/porfolio-lise/)
 
 <br/><br/>
 
